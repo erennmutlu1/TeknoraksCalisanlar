@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "729320153087",
+    "firebase_url": "https://teknoraks-20d30.firebaseio.com",
+    "project_id": "teknoraks-20d30",
+    "storage_bucket": "teknoraks-20d30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729320153087:android:040dbb680e6e11f9dad1ca",
+        "android_client_info": {
+          "package_name": "com.teknoraks.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729320153087-48s7tsiua8f3luf2ttf0jtv0ai1d2ms6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeTX8mKory7MISp-ZCjqOf8Q57KCas4Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729320153087-48s7tsiua8f3luf2ttf0jtv0ai1d2ms6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
