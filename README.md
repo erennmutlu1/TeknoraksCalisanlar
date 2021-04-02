@@ -1,6 +1,6 @@
-# firebase_authentication_tutorial
+TeknoraksCalisanlar
 
 A new Flutter project.
 
 ## Getting Started
-This is a project for employee of Teknoraks
+This is a project for employees of Teknoraks
